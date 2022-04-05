@@ -1,4 +1,4 @@
-code of egui example: https://github.com/emilk/egui/blob/master/egui_glow/examples/pure_glow.rs
+code of egui example: https://github.com/emilk/egui/blob/0.17.0/egui_glow/examples/pure_glow.rs
 
 RUST_BACKTRACE=1 cargo run
 
