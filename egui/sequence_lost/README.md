@@ -2,7 +2,7 @@ code of egui example: https://github.com/emilk/egui/blob/0.17.0/egui_glow/exampl
 
 RUST_BACKTRACE=1 cargo run
 
-Error:
+Sometimes got error:
 
 [xcb] Unknown sequence number while processing queue  
 [xcb] Most likely this is a multi-threaded client and XInitThreads has not been called  
